@@ -3,7 +3,7 @@
     "path": "~/Documents/Recherches_scientifiques/CREONS/siteweb_CREONS/PSF_CREONS/modules.qmd",
     "project_path": "modules.qmd",
     "type": "quarto_markdown",
-    "hash": "181711893",
+    "hash": "4089340418",
     "contents": "",
     "dirty": false,
     "created": 1739925590065.0,
@@ -17,16 +17,17 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "0,0",
+        "cursorPosition": "15,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "22:0"
+        "rmdVisualModeLocation": "640:421.66668701171875",
+        "docOutlineSize": "225"
     },
     "folds": "",
-    "lastKnownWriteTime": 1739925830,
+    "lastKnownWriteTime": 1739928506,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1739925830478,
+    "last_content_update": 1739928506887,
     "read_only": false,
     "read_only_alternatives": []
 }
