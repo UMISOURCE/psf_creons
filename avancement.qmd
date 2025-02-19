@@ -2,3 +2,9 @@
 title: "avancement"
 format: html
 ---
+
+## MAJ régulière des avancées 
+
+## CR réunions d'avancements
+
+## Agenda des événements à venir
