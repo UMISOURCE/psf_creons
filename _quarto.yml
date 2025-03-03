@@ -16,6 +16,10 @@ website:
         text: "Modules de formation: protocole T2VA"
       - href: contacts.qmd
         text: "Équipe et contacts"
+    right:
+      - icon: github
+        href: https://github.com/UMISOURCE/psf_creons
+        aria-label: GitHub
 format:
   html:
     theme: cosmo
