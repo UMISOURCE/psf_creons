@@ -7,17 +7,18 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: "Page d'accueil"
+        text: "Accueil"
       - href: about.qmd
-        text: "A propos du projet"
+        text: "A propos"
       - href: avancement.qmd
-        text: "Avancement du projet"
+        text: "Avancement"
       - href: modules.qmd
         text: "Modules de formation: protocole T2VA"
       - href: contacts.qmd
         text: "Équipe et contacts"
     right:
-      - icon: github
+      - text: "Github repository"
+        icon: github
         href: https://github.com/UMISOURCE/psf_creons
         aria-label: GitHub
 format:
