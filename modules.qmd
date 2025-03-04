@@ -5,13 +5,22 @@ format: html
 
 # Protocole T2VA
 
-Description protocole T2VA.
+Le tableau ci-dessous récapitule le type de formation et les compétences correspondantes. Il suit le protocole baptisé ‘T2VA’ (science ouverte comme outils de Travail, de Valorisation, de Vérification, et les outils d’Accompagnements en vue de la science ouverte) offrant 4 modules pour nous permettre d’aller vers une véritable ‘Coopérative de Recherche Équitable et Ouverte Nord-Sud’.
 
-Les différentes formations et ressources textuelles ou vidéos d'accompagnements sont réunies ici.
+# Tableau - Protocole UMI SOURCE - « T2VA »
+
+| Type de formation                                                       | Compétences                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Évaluation des compétences                                                                                                                                                                                                                          |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1. Outils de « travail » de la science ouverte**                      | Formation collective à des outils de collaboration de recherche. Utilisation de plateformes telles que MatterMost pour la communication en temps réel entre toute la communauté UMI SOURCE ; les dérivés Git (Github, Gitlab, etc.) pour la gestion des tâches, la collaboration sur le code et la vérification par les pairs ; la suite de Partage de l’IRD pour l’édition synchronisée de documents ; Zotero pour le partage et la gestion de ressources bibliographiques. | Création de « repositories » de code informatique, apprentissage des bases du codage.                                                                                                                                                               |
+| **2. Outils de « valorisation » de la science ouverte**                 | Concerne les PGD, le dépôt de données et la rédaction de data papers, comme cela a été fait en avril 2024 à l’UFHB à Abidjan.                                                                                                                                                                                                                                                                                                                                                | Dépôts de données dans DataSuds et ateliers de rédaction de data papers.                                                                                                                                                                            |
+| **3. Outils de « vérification » par la reproductibilité de la science** | Importance de la « transparence, le contrôle, la critique et la reproductibilité » (UNESCO 2021) en science. Utilisation des outils mentionnés pour assurer que chaque projet de recherche est reproductible.                                                                                                                                                                                                                                                                | Vérification par un pair d’un autre laboratoire pour garantir la fiabilité et la précision des travaux. Des cas pratiques seront réalisés avec des études publiées, dont les données seront reproduites selon les méthodologies enseignées.         |
+| **4. Outils d’« accompagnement » par l’intelligence artificielle**      | Des outils comme DeepL Write, ChatGPT ou GitHub CoPilot seront explorés. Non utilisés comme des fins en soi, mais comme des moyens pour réduire certaines inégalités de recherche, notamment celles liées à la langue (« bon anglais » ou « bon français ») ou à l’accès aux compétences (comme le codage). Comment utiliser ces outils de manière efficace, dans le respect des chartes éthiques de recherche ?                                                             | Comprendre ce qu’est une IA, ses avantages et limites ; les règles éthiques (notamment RGPD) et ses tensions avec l’IA ; les différents outils et modalités existants pouvant être utiles à la recherche. Cas pratique de codage à l’aide d’une IA. |
 
 ## Travail
 
---\> Github, Zotero.
+### Github
+
+### Zotero
 
 ## Valorisation
 
@@ -21,8 +30,16 @@ Les Journées Science Ouvertes 2024 (Abidjan, Côte d'Ivoire) "De la gestion des
 
 ## Vérification
 
---\> déposer données de réplication, quelle approche pour cela.
+### Logique de la réplication
 
-## Accompagnement 
+Déposer données de réplication, quelle approche pour cela.
 
---\> Différentes IA, logiques du prompt engineering.
+## Accompagnement
+
+### Différentes IA d'intérêt pour la recherche
+
+Liste d'IA.
+
+### Logiques du prompt engineering
+
+Explications et liens.

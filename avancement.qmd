@@ -3,7 +3,7 @@ title: "avancement"
 format: html
 ---
 
-## MAJ régulière des avancées 
+## MAJ régulière des avancées
 
 ## CR réunions d'avancements
 

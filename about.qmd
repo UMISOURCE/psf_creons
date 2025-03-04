@@ -5,7 +5,49 @@ format: html
 
 # Description du PSF CREONS
 
-## Contexte et enjeux 
-## Objectifs du projet 
-## Références
+## Mots-clés
+
+Coopération équitable Nords-Sud ; Open Source ; Open Science ; Formation de formateurs ; Intelligence Artificielle ; Adapatation aux outils innovants ; Sciences sociales et environnementales ; Mutualisation académique.
+
+## Contexte et enjeux
+
+### Par-delà les inégalités de recherche...
+
+Fondée en janvier 2022, l’UMI SOURCE regroupe des antennes en Côte d’Ivoire, France, Madagascar et Sénégal. Elle surmonte les défis de coordination entre ces contextes divers pour favoriser des recherches communes et explorer les relations scientifiques Nords-Suds. Un rapport rédigé par des doctorant·e·s et des personnels de recherche évalue deux années d’activités et propose des pistes d’amélioration pour une coopération plus équitable (Mathieu et al. 2023). Des ateliers mensuels inter-antennes et d’accompagnements ont révélé des disparités dans les conditions doctorales, motivant la création du Groupe de Travail sur les Disparités et Inégalités Doctorales (GTDID), intégré dans le GT Inégalités de l’IRD, pour étudier ces problématiques (Mathieu et al. 2024, « Inégalités doctorales entre les Nords et les Suds : une première exploration depuis la littérature » in Meyer, J-B. Benguerna, M. Lounaci, A. \[Eds\] Le doctorat dans les Afriques. Editions IRD. A paraître).
+
+### ... Et au-devant de la science ouverte
+
+L’intégration des recherches de l’UMI SOURCE dans la science ouverte est essentielle. En deux ans, l’UMI a déposé plusieurs jeux de données sur DataSuds et Recherche Data Gouv et publié des data papers dans des revues internationales. Deux « Journées Science Ouverte » ont été organisées en 2023 et 2024, présentant des outils de valorisation de la science ouverte. Ces journées ont abouti au dépôt de jeux de données par des doctorants du CIRES sur DataSuds et à la création d’un manuel en ligne sur les outils fondamentaux de la science ouverte.
+
+### La science ouverte : possible rempart à ces injustices épistémiques ?
+
+Deux principales thématiques de recherche ont émergé : les inégalités structurelles de recherche et doctorales entre les Nords et les Suds, et une interrogation sur les impacts de la science ouverte sur ces inégalités. L’UMI SOURCE prend en compte ces deux dimensions dans ses pratiques, de manière réflexive. Les Journées Science Ouverte 2024 à Abidjan ont permis de discuter des avantages et des limites de la science ouverte, réunissant chercheurs et doctorants. Afin de surmonter ces défis, l’UMI SOURCE se transforme en un modèle de coopérative de recherche Nord-Sud, adoptant des pratiques de recherche collaboratives et réplicables. Cela inclut l’utilisation d’outils modernes de communication en temps réel, de gestion des tâches et de collaboration sur codes, ou encore de partage de ressources bibliographiques. Ces outils visent à améliorer la coordination et à garantir la transparence et la reproductibilité des recherches. En veillant à la justice épistémique (chaque scientifique a une voix égale), la justice matérielle (chacun doit pouvoir utiliser les outils) et la justice épistémologique (accès égal aux ressources intellectuelles), l’UMI SOURCE crée un écosystème de recherche inter-antennes, facilitant la collaboration, le partage des ressources et la reproductibilité des recherches. En résumé, ce projet structurant de formation vise à participer à la réduction des inégalités de recherche entre les Nords et les Suds, tout en promouvant une culture de science ouverte, collaborative et équitable.
+
+## Objectifs du projet
+
+Le projet vise à :
+
+-   Structurer un cadre de formation inclusif, inter-institutionnel et évolutif en sciences sociales et environnementales ;
+-   Former aux outils de l’open science dans une approche réflexive ;
+-   Garantir une compréhension et une utilisation de l’intelligence artificielle parmi nos collègues ;
+-   Développer une approche mutualisée et open source facilitant l’accès et l’actualisation des contenus pédagogiques ;
+-   Expérimenter et institutionnaliser un programme de formation réplicable dans plusieurs antennes de l’UMI SOURCE ;
+-   Créer des réseaux académiques permettant l’échange et la mise à jour continue des pratiques de formation et de recherche.
+
 ## Modalités de financements & partenariats
+
+Le projet a obtenu le financement par l’Institut de Recherche pour le Développement (IRD) de **30 k€** sur trois années.
+
+Il réunit les différents partenaires :
+
+-   IRD (France) – Guillaume DEZECACHE
+
+-   CIRES (Côte d’Ivoire) – Ibrahim DIARRA
+
+-   UCAD (Sénégal) – Ndickou GAYE
+
+-   UVSQ-UPSaclay (France) – Vincent GERONIMI
+
+-   Université de Bordeaux (France) – Claire GONDARD-DELCROIX
+
+-   Université d’Antanarivo (Madagascar) – Mahefasoa RANDRIANALIJAONA
